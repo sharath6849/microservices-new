@@ -1,0 +1,9 @@
+### Create Todo
+POST http://localhost:8080/api/product
+Content-Type: application/json
+
+{
+  "name": "Learn Abc",
+  "description": "Build abc Todo REST API",
+  "price": 1000
+}
