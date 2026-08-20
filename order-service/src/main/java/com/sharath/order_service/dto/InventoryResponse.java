@@ -1,4 +1,4 @@
-package com.sharath.inventory_service.dto;
+package com.sharath.order_service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
